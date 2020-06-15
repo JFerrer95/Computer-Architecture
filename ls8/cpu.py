@@ -93,5 +93,5 @@ class CPU:
                 self.pc += 2
             
             else:
-                print(f"bad input: {instruction)")
+                print(f"bad input: {instruction}")
                 isRunning = False
